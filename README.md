@@ -9,6 +9,10 @@ All these articles are published on [medium](https://medium.com/all-is-web)
 - [default angular-cli to generate sass files](https://medium.com/all-is-web/default-angular-cli-to-generate-sass-files-7c34a7e9ffc9)
 - [custom component selector prefix — angular cli](https://medium.com/all-is-web/custom-component-selector-prefix-angular-cli-a2f4ad0c543e)
 
+## SCSS (SASS)
+- [usage of & character in sass](https://medium.com/all-is-web/usage-of-character-in-sass-1b40a02868ca)
+- [placeholders in sass](https://medium.com/all-is-web/placeholders-in-sass-9fc3339dc002)
+
 ## webpack
 - [Webpack configuration setup — part I](https://medium.com/all-is-web/webpack-configuration-setup-part-i-6406b7b26541)
 - [Webpack configuration setup — part II](https://medium.com/all-is-web/webpack-configuration-setup-part-ii-50ed1768cfbd)
