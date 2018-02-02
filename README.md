@@ -3,6 +3,7 @@
 All these articles are published on [medium](https://medium.com/all-is-web)
 
 ## angular
+- [Angular 5 — creating new component](https://medium.com/all-is-web/angular-5-creating-new-component-c6c5236f8024)
 - [Angular 5 — using jquery plugins](https://medium.com/all-is-web/angular-5-using-jquery-plugins-5edf4e642969)
 - [Angular 5 — inside components](https://medium.com/all-is-web/angular-5-inside-components-3001813034b9)
 - [A crud app made in angular 5](https://medium.com/all-is-web/a-simple-crud-app-made-in-angular-5-de8621d36479)
