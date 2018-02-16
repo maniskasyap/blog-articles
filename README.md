@@ -3,6 +3,7 @@
 All these articles are published on [medium](https://medium.com/all-is-web)
 
 ## angular
+- [Angular 5 — routing](https://medium.com/all-is-web/https-medium-com-all-is-web-angular-5-routing-fad9b3648f67)
 - [Angular 5 — creating new component](https://medium.com/all-is-web/angular-5-creating-new-component-c6c5236f8024)
 - [Angular 5 — using jquery plugins](https://medium.com/all-is-web/angular-5-using-jquery-plugins-5edf4e642969)
 - [Angular 5 — inside components](https://medium.com/all-is-web/angular-5-inside-components-3001813034b9)
