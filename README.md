@@ -2,6 +2,9 @@
 
 All these articles are published on [medium](https://medium.com/all-is-web)
 
+## react
+- [React — higher order components(HOCs) — some use cases](https://medium.com/all-is-web/react-higher-order-components-hocs-some-use-cases-ac88886964c)
+
 ## angular
 - [Angular 5 — routing](https://medium.com/all-is-web/https-medium-com-all-is-web-angular-5-routing-fad9b3648f67)
 - [Angular 5 — creating new component](https://medium.com/all-is-web/angular-5-creating-new-component-c6c5236f8024)
